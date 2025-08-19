@@ -18,6 +18,9 @@ This repository contains two Jupyter notebooks for converting **binary data file
 - Interpolates values into a raster grid.  
 - Exports as `EPSG:4326` by default.  
 
+
+You will need to specify input and output directions of your `.bin` files and `.tif` file, and `image_shape` or `res_deg`, depending on which notebook you use. 
+
 ---
 
 ## ⚙️ Requirements
