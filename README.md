@@ -27,6 +27,6 @@ You will need to specify input and output directions of your `.bin` files and `.
 Install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/image-tiler.git
-cd image-tiler
+git clone https://github.com/yourusername/bin_to_tif.git
+cd bin_to_tif
 pip install -r requirements.txt
