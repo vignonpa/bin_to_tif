@@ -1,6 +1,6 @@
 # BIN to TIFF Conversion Tools
 
-This repository contains two Jupyter notebooks (or .py scripts) for converting **binary data files (.bin)** into **TIF** raster images.  
+This repository contains two Jupyter notebooks (or one .py script) for converting **binary data files (.bin)** into **TIF** raster images.  
 
 ---
 
