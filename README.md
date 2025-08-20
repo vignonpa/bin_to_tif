@@ -25,5 +25,8 @@ You will need to specify input and output directions of your `.bin` files and `.
 
 ## ⚙️ Requirements
 Install dependencies:
+
 ```bash
-pip install numpy matplotlib pandas rasterio tifffile
+git clone https://github.com/yourusername/image-tiler.git
+cd image-tiler
+pip install -r requirements.txt
